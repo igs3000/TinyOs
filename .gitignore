@@ -1,0 +1,6 @@
+# Build artifacts
+boot/*.o
+boot/*.bin
+kernel/*.o
+kernel/*.elf
+kernel/*.bin
